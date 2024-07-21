@@ -15,7 +15,7 @@ $(call inherit-product, device/google/redbull/lineage_common.mk)
 include device/google/bramble/device-lineage.mk
 
 # Matrixx
-MATRIXX_BUILD_TYPE := Unofficial
+MATRIXX_BUILD_TYPE := Official
 MATRIXX_MAINTAINER := 306bobby
 MATRIXX_CHIPSET := SM7250
 MATRIXX_BATTERY := 3885mah
